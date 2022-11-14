@@ -1,0 +1,15 @@
+@font-face {
+  @include font("Open Sans", "opensans", 400);
+}
+
+@font-face {
+  @include font("Open Sans", "opensansbold", 700);
+}
+
+@font-face {
+  @include font("Open Sans", "opensansextrabold", 800);
+}
+
+@font-face {
+  @include font("Open Sans", "opensanssemibold", 600);
+}

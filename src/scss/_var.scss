@@ -1,0 +1,20 @@
+// Типографика
+$main-font-family: "Open Sans";
+$main-font-size: 14px;
+$main-line-height: 100%;
+$main-color: #48555B;
+$color-white: #fff;
+$color-black: #000;
+$color-blue: #00A4E5;
+
+// Размеры контейнера
+$content-width: 942px;
+$container-offset: 15px;
+$container-width: calc($content-width + ($container-offset) * 2);
+
+// Брейк-поинты
+$desktop: 1600px;
+$laptop: 1200px;
+$tablet: 1000px;
+$small-tablet: 800px;
+$mobile: 560px;
